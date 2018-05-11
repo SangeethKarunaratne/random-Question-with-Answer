@@ -5,10 +5,10 @@ This code was developed as a sub requirement for a mobile app, which allows the 
 
 There are 4 difficulty levels for the user to select
 
-	 	novice - exactly 2 integer
-    		easy - max 3  , 2..3 integers
-    		medium - max 4 , 2...4 integers
-    		guru -max 6 , min 4 , 4...6 integers
+	 	novice - exactly 2 integers
+		easy - max 3  , 2..3 integers
+		medium - max 4 , 2...4 integers
+		guru -max 6 , min 4 , 4...6 integers
 		
 Based on the selected level of difficulty an array will created with the random size between the boundaries given.
 
