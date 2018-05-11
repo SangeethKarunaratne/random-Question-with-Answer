@@ -1,6 +1,7 @@
 # random-Question-with-Answer
 
-This code was developed as a sub requirement for a mobile app, which allows the user to select a difficulty level and generate the question based on the selected level.This code is capable of randomly generating questions with random operators and also evaluate the question and provide the correct answer.
+This code was developed as a sub requirement for a mobile app, which allows the user to select a difficulty level and generate the question based on the selected level.
+This code is capable of randomly generating questions with random operators and also evaluate the question and provide the correct answer.
 
 
 There are 4 difficulty levels for the user to select
