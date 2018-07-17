@@ -56,6 +56,8 @@ public class randomQnA {
         new randomQnA(4).generateQandA();
         new randomQnA(4).generateQandA();
 
+ 	System.out.println();
+
     }
 
 
